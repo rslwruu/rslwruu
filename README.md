@@ -1,3 +1,5 @@
+<meta charset="UTF-8">
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=76ABAE&text=Dlwhdqh%20Studio&reversal=false&textBg=false&fontSize=108&fontColor=31363F&fontAlignY=44"/>
 
