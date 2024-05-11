@@ -4,7 +4,7 @@
 <br>
 <img
   src="https://img.shields.io/badge/Apple Music-FA243C?style=flat&logo=applemusic&logoColor=FFFFFF"
-  <a href="https://music.apple.com/profile/dnflotjstbwtrr_" </a>
+  <a href="https://music.apple.com/profile/dnflotjstbwtrr_" >
   </img>
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dlwhdqh&theme=dark)
